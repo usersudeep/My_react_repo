@@ -1,0 +1,22 @@
+{
+  "name": "my-react",
+  "version": "1.0.0",
+  "description": "this is LSRL",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usersudeep/My_react_repo.git"
+  },
+  "keywords": [
+    "my_react"
+  ],
+  "author": "SUDEEPA N S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usersudeep/My_react_repo/issues"
+  },
+  "homepage": "https://github.com/usersudeep/My_react_repo#readme"
+}
