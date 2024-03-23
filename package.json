@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/usersudeep/My_react_repo/issues"
   },
-  "homepage": "https://github.com/usersudeep/My_react_repo#readme"
+  "homepage": "https://github.com/usersudeep/My_react_repo#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
