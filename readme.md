@@ -1,0 +1,1 @@
+readme file of basic react i learned in episode 1 of namaste react 
